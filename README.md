@@ -1,6 +1,6 @@
 # Operation Kujari Stabilisation - Part 1
 ## Use
-To play this mission, simply extract the entire contents of the root folder in to your mpmissions folder. The root folder should be called "OP_Kujari_Stabilisation_(ANZAC_2022).tem_kujari". The Documentation folder can be deleted.
+To play this mission, simply extract the entire folder named "OP_Kujari_Stabilisation_(ANZAC_2022).tem_kujari" into your Arma 3 mpmissions folder.
 
 ## Setting
 Kujari Stabilisation Part 1 is the beginning of a story based campaign for Arma 3 set in Sub-Saharan Africa in 2007 where players take the role of Australian Defence Force Members.
