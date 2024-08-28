@@ -1,0 +1,76 @@
+author            = "HoodleDoodle";
+onLoadName        = "Peacekeeping in Kujari";
+onLoadMission     = "2007 - Tensions are rising after a governmental collapse in the Sub-Saharan country of Kujari. Australian troops are deployed for peacekeeping operations after UN Blue Helmets have failed to provide sufficient order.";
+
+class Header {
+      gameType = Coop;
+      minPlayers = 1;
+      maxPlayers = 20;
+}
+
+class CfgSounds {
+      sounds[] = {};
+
+      class VL01 {
+            name = "VL01";
+            sound[] = {"sounds\voice_line_1.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL02 {
+            name = "VL02";
+            sound[] = {"sounds\voice_line_2.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL03 {
+            name = "VL03";
+            sound[] = {"sounds\voice_line_3.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL01T {
+            name = "VL01T";
+            sound[] = {"sounds\voice_line_1_translated.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL02T {
+            name = "VL02T";
+            sound[] = {"sounds\voice_line_2_translated.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL03T {
+            name = "VL03T";
+            sound[] = {"sounds\voice_line_3_translated.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL04 {
+            name = "VL04";
+            sound[] = {"sounds\voice_line_4.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class VL05 {
+            name = "VL05";
+            sound[] = {"sounds\voice_line_5.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class EVL {
+            name = "EVL";
+            sound[] = {"sounds\english_voice_line.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      class RadioMusic {
+            name = "RadioMusic";
+            sound[] = {"sounds\verao.ogg", 5000, 1};
+            titles[] = {};
+      };
+
+      //https://www.perthnow.com.au/news/circular-saw-used-to-cut-mans-leg-off-murder-charges-laid-c-5766404
+
+};
