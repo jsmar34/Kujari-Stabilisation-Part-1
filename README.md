@@ -1,4 +1,8 @@
 # Operation Kujari Stabilisation - Part 1
+
+
+![UN Aid Station](Documentation/Screenshots/UN-Aid_Station-Screenshot.jpg?raw=true "Title")
+
 ## Use
 To play this mission, simply extract the entire folder named "OP_Kujari_Stabilisation_(ANZAC_2022).tem_kujari" into your Arma 3 mpmissions folder.
 
